@@ -18,3 +18,4 @@ Save Results to File:
 
 Saves validation results and passwords to a text file.
 
+![Uploading image.png…]()
