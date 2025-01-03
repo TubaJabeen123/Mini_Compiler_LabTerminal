@@ -1,0 +1,20 @@
+Tuba986 - Valid
+Letters: 4 (Uppercase: 1, Lowercase: 3), Digits: 3, Underscores: 0
+Generated Password: hB1K6@Np%TXl (Strength: Strong)
+
+Jabeen453 - Valid
+Letters: 6 (Uppercase: 1, Lowercase: 5), Digits: 3, Underscores: 0
+Generated Password: Vb4tb6*N%QsS (Strength: Strong)
+
+User3215 - Valid
+Letters: 4 (Uppercase: 1, Lowercase: 3), Digits: 4, Underscores: 0
+Generated Password: 7j3D3WT7zH@& (Strength: Strong)
+
+hi34 - Invalid (Username length must be between 5 and 15 and contain only letters, digits, and underscores.)
+
+marrie#42 - Invalid (Username length must be between 5 and 15 and contain only letters, digits, and underscores.)
+
+Summary:
+- Total Usernames: 5
+- Valid Usernames: 3
+- Invalid Usernames: 2
