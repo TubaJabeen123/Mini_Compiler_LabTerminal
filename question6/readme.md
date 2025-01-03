@@ -18,4 +18,5 @@ Save Results to File:
 
 Saves validation results and passwords to a text file.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2473e2cc-a100-430e-93fa-974c92700728)
+
